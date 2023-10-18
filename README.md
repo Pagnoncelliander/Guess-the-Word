@@ -1,4 +1,5 @@
 #Guess the Word
+![responsive 2023-10-17 173843](https://github.com/Pagnoncelliander/Guess-the-Word/assets/134398235/98d1c662-228a-40d6-88f5-28698f15ede9)
 
 ##HOW TO PLAY
 
