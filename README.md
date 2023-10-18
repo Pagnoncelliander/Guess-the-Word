@@ -2,6 +2,7 @@
 ![responsive 2023-10-17 173843](https://github.com/Pagnoncelliander/Guess-the-Word/assets/134398235/98d1c662-228a-40d6-88f5-28698f15ede9)
 
 ##HOW TO PLAY
+![how to play ](https://github.com/Pagnoncelliander/Guess-the-Word/assets/134398235/00a16f37-7bbf-4b1f-a81e-7a5bbab5a3ae)
 
 ##FEATURE
 
