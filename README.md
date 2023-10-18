@@ -4,6 +4,11 @@
 ##HOW TO PLAY
 ![how to play ](https://github.com/Pagnoncelliander/Guess-the-Word/assets/134398235/00a16f37-7bbf-4b1f-a81e-7a5bbab5a3ae)
 
+game action
+https://github.com/Pagnoncelliander/Guess-the-Word/issues/3#issue-1949541083
+
+end game
+
 ##FEATURE
 
 ##DATA MODEL
