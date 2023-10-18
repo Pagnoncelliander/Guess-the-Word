@@ -15,16 +15,14 @@ while True:
     if play == "YES":
         print("Loading...")
         time.sleep(3)
-       
 
         word = random.choice(words)
         word_length = len(word)
 
-       
         correct_letters = []
         wrong_letters = []
         attempts = 6  # Number of attempts
-        
+
         # Function to display the hidden word
         def display_hidden_word():
             hidden_word = ""
@@ -52,7 +50,6 @@ while True:
                 print("Please enter a single valid letter.")
                 continue
 
-           
             if letter in correct_letters or letter in wrong_letters:
                 print("You've already tried this letter.")
                 continue
@@ -60,7 +57,7 @@ while True:
             # Check if the letter is in the word and Check if the player has won
             if letter in word:
                 correct_letters.append(letter)
-              
+
                 if set(correct_letters) == set(word):
                     print("\nCongratulations! You won. The word was: " + word)
                     break
@@ -69,7 +66,6 @@ while True:
                 attempts -= 1
                 print("Incorrect letter. You have {} attempts left.".format(attempts))
 
-          
             if attempts == 0:
                 print("\nYou lost! The word was: " + word)
                 break
