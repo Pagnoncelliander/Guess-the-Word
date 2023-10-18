@@ -5,10 +5,13 @@
 ![how to play ](https://github.com/Pagnoncelliander/Guess-the-Word/assets/134398235/00a16f37-7bbf-4b1f-a81e-7a5bbab5a3ae)
 
 game action
+![playing_game](https://github.com/Pagnoncelliander/Guess-the-Word/assets/134398235/1bb89580-6b5f-4429-8413-94469763546d)
 
 
 end game
 ![endgame](https://github.com/Pagnoncelliander/Guess-the-Word/assets/134398235/17da3ad2-33f8-48b5-916c-05b0647454e0)
+
+
 
 ##FEATURE
 
