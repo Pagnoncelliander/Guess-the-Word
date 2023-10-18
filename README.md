@@ -20,10 +20,10 @@ When the game is done, the user can choose to start it again or release it.
 
 
 
-##FEATURE
+## FEATURE
 The player has 7 chances to choose the correct answer. After the game is done, the player will have another chance to start the game again.
 
-##DATA MODEL
+## DATA MODEL
 Guess the Word is a game where the user chooses the correct letters to guess the word. If the user chooses the wrong letter, 
 that letter will be displayed on the screen.
 
@@ -31,13 +31,9 @@ that letter will be displayed on the screen.
 I have tested this project by doind the following :
 * PEP8
    * No erros were returned from PEP8.
-BUGS
-
-VALIDATOR TESTING
 
 
-
-#DEPLOYMENT
+# DEPLOYMENT
 this project was deployed using Code institute's mock terminal for Heroku
 
  * created a new Horoku app
@@ -45,10 +41,11 @@ this project was deployed using Code institute's mock terminal for Heroku
  * link the heroku app to the repository
  * click on deploy
 
-  ##GAME LINK TO PLAY
+  ## GAME LINK TO PLAY
+  
   https://guess-the-word-game-6ef363ce5f39.herokuapp.com/
 
-  ##Credits
+  ## Credits
   *code intitute for depoayment terminal
   * https://www.w3schools.com/
 
