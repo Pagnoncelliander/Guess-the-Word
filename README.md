@@ -1,32 +1,29 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+#Guess the Word
 
-Welcome,
+##HOW TO PLAY
 
-This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **March 14, 2023**
+##FEATURE
 
-## Reminders
+##DATA MODEL
 
-- Your code must be placed in the `run.py` file
-- Your dependencies must be placed in the `requirements.txt` file
-- Do not edit any of the other files or your code may not deploy properly
+##TESTING
 
-## Creating the Heroku app
+BUGS
 
-When you create the app, you will need to add two buildpacks from the _Settings_ tab. The ordering is as follows:
+VALIDATOR TESTING
 
-1. `heroku/python`
-2. `heroku/nodejs`
+#DEPLOYMENT
+this project was deployed using Code institute's mock terminal for Heroku
 
-You must then create a _Config Var_ called `PORT`. Set this to `8000`
+ * created a new Horoku app
+ * set the buildbacks to python and nodejs in that order
+ * link the heroku app to the repository
+ * click on deploy
 
-If you have credentials, such as in the Love Sandwiches project, you must create another _Config Var_ called `CREDS` and paste the JSON into the value field.
+  ##GAME LINK TO PLAY
+  https://guess-the-word-game-6ef363ce5f39.herokuapp.com/
 
-Connect your GitHub repository and deploy as normal.
+  ##Credits
+  *code intitute for depoayment terminal
+  * https://www.w3schools.com/
 
-## Constraints
-
-The deployment terminal is set to 80 columns by 24 rows. That means that each line of text needs to be 80 characters or less otherwise it will be wrapped onto a second line.
-
----
-
-Happy coding!
